@@ -427,13 +427,14 @@ d8888b. d888888b d8888b. d888888b  .d88b.
 88  .8D   .88.   88         88    `8b  d8' 
 Y8888D' Y888888P 88         YP     `Y88P'
  
-__________________D1PTO-V4U______________________
+'\033[91;1m'__________________D1PTO-V4U______________________
   
   Auther :  D1PTO-V4U  
   FB     :  ITZ.DIPTO.TFG.KING.OKAY
   Country:  Bangladesh 
   WP     :  +88017888*****
-  Group  :  TUFAN FIGHTER GANG
+  Group  :  TUFAN FIGHTER GANG (T.F.G BRAND)
+
 __________________IT'Z D1PTO-V4U______________________\033[1;37m""")
 
 class Main:
