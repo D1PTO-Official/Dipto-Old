@@ -1,5 +1,7 @@
 # Dipto-Old
 
+rm -rf Dipto-Old
+
 git clone https://github.com/D1PTO-Official/Dipto-Old
 
 cd Dipto-Old
