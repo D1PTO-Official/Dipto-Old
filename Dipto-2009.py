@@ -458,7 +458,7 @@ class Main:
 
 		print(" [E] Exit Programming\n")
 
-		D1PTO-V4U=input(" Choose : ")
+		ATIF =input(" Choose : ")
 
 		if D1PTO-V4U in ["1", "01"]:
 
