@@ -460,23 +460,23 @@ class Main:
 
 		ATIF =input(" Choose : ")
 
-		if D1PTO-V4U in ["1", "01"]:
+		if ATIF in ["1", "01"]:
 
 			File()
 
-		if D1PTO-V4U in ["2", "02"]:
+		if ATIF in ["2", "02"]:
 
 			Public()
 
-		if D1PTO-V4U in ["3", "03"]:
+		if ATIF in ["3", "03"]:
 
 			os.system("python Dump.py")
 
-		if D1PTO-V4U in ["4", "04"]:
+		if ATIF in ["4", "04"]:
 
 			self.old()
 
-		if D1PTO-V4U in ["5", "05"]:
+		if ATIF in ["5", "05"]:
 
 			self.old2()
 
