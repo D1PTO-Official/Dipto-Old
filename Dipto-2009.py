@@ -433,9 +433,10 @@ __________________D1PTO-V4U______________________
   
   Auther :  D1PTO-V4U  
   FB     :  ITZ.DIPTO.TFG.KING.OKAY
-  Country: Bangladesh 
-  WP     : +88017888*****
-__________________😍🥰😍______________________\033[1;37m""")
+  Country:  Bangladesh 
+  WP     :  +88017888*****
+  Group  :  TUFAN FIGHTER GANG
+__________________IT'Z D1PTO-V4U______________________\033[1;37m""")
 
 class Main:
 	def __init__(self):
